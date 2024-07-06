@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\bin\Debug\CicloWhile.exe.config
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\bin\Debug\CicloWhile.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\bin\Debug\CicloWhile.pdb
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\obj\Debug\CicloWhile.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\obj\Debug\CicloWhile.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\obj\Debug\CicloWhile.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\02 Ciclo while\CicloWhile\obj\Debug\CicloWhile.pdb

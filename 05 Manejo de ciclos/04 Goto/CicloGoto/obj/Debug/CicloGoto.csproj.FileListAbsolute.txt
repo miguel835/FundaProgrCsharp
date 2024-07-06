@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\bin\Debug\CicloGoto.exe.config
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\bin\Debug\CicloGoto.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\bin\Debug\CicloGoto.pdb
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\obj\Debug\CicloGoto.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\obj\Debug\CicloGoto.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\obj\Debug\CicloGoto.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\04 Goto\CicloGoto\obj\Debug\CicloGoto.pdb

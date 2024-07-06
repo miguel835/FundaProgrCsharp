@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\bin\Debug\MetodosParaArreglos3.exe.config
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\bin\Debug\MetodosParaArreglos3.exe
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\bin\Debug\MetodosParaArreglos3.pdb
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\obj\Debug\MetodosParaArreglos3.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\obj\Debug\MetodosParaArreglos3.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\obj\Debug\MetodosParaArreglos3.exe
+D:\FundaProgrCsharp\06 Arreglos\04 Métodos para vectores\MétodosParaArreglos3\MetodosParaArreglos3\obj\Debug\MetodosParaArreglos3.pdb

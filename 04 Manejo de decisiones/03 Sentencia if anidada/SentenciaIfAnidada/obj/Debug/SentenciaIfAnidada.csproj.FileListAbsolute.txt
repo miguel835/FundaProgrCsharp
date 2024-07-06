@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\bin\Debug\SentenciaIfAnidada.exe.config
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\bin\Debug\SentenciaIfAnidada.exe
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\bin\Debug\SentenciaIfAnidada.pdb
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\obj\Debug\SentenciaIfAnidada.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\obj\Debug\SentenciaIfAnidada.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\obj\Debug\SentenciaIfAnidada.exe
+D:\FundaProgrCsharp\04 Manejo de decisiones\03 Sentencia if anidada\SentenciaIfAnidada\obj\Debug\SentenciaIfAnidada.pdb

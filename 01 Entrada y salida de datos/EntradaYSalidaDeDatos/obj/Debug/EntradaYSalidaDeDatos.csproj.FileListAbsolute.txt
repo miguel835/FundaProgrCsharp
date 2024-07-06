@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\bin\Debug\EntradaYSalidaDeDatos.exe.config
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\bin\Debug\EntradaYSalidaDeDatos.exe
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\bin\Debug\EntradaYSalidaDeDatos.pdb
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\obj\Debug\EntradaYSalidaDeDatos.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\obj\Debug\EntradaYSalidaDeDatos.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\obj\Debug\EntradaYSalidaDeDatos.exe
+D:\FundaProgrCsharp\01 Entrada y salida de datos\EntradaYSalidaDeDatos\obj\Debug\EntradaYSalidaDeDatos.pdb

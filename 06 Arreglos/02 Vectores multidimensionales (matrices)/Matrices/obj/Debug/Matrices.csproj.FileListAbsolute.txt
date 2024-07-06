@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\bin\Debug\Matrices.exe.config
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\bin\Debug\Matrices.exe
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\bin\Debug\Matrices.pdb
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\obj\Debug\Matrices.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\obj\Debug\Matrices.exe
+D:\FundaProgrCsharp\06 Arreglos\02 Vectores multidimensionales (matrices)\Matrices\obj\Debug\Matrices.pdb

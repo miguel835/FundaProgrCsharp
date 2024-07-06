@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.exe.config
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.exe
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.pdb
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.exe
+D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.pdb

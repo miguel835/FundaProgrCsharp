@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\bin\Debug\Sentenciaifelse.exe.config
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\bin\Debug\Sentenciaifelse.exe
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\bin\Debug\Sentenciaifelse.pdb
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\obj\Debug\Sentenciaifelse.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\obj\Debug\Sentenciaifelse.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\obj\Debug\Sentenciaifelse.exe
+D:\FundaProgrCsharp\04 Manejo de decisiones\02 Sentencia if else\Sentenciaifelse\obj\Debug\Sentenciaifelse.pdb

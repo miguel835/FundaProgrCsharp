@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\bin\Debug\CicloForeach.exe.config
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\bin\Debug\CicloForeach.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\bin\Debug\CicloForeach.pdb
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\obj\Debug\CicloForeach.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\obj\Debug\CicloForeach.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\obj\Debug\CicloForeach.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\05 Ciclo foreach\CicloForeach\obj\Debug\CicloForeach.pdb

@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\bin\Debug\BucleFor.exe.config
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\bin\Debug\BucleFor.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\bin\Debug\BucleFor.pdb
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\obj\Debug\BucleFor.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\obj\Debug\BucleFor.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\obj\Debug\BucleFor.exe
+D:\FundaProgrCsharp\05 Manejo de ciclos\01 Ciclo for\BucleFor\obj\Debug\BucleFor.pdb

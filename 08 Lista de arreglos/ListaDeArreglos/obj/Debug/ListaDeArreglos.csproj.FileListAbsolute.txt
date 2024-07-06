@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\bin\Debug\ListaDeArreglos.exe.config
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\bin\Debug\ListaDeArreglos.exe
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\bin\Debug\ListaDeArreglos.pdb
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\obj\Debug\ListaDeArreglos.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\obj\Debug\ListaDeArreglos.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\obj\Debug\ListaDeArreglos.exe
+D:\FundaProgrCsharp\08 Lista de arreglos\ListaDeArreglos\obj\Debug\ListaDeArreglos.pdb

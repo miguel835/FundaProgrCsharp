@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\bin\Debug\Sentenciaif.exe.config
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\bin\Debug\Sentenciaif.exe
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\bin\Debug\Sentenciaif.pdb
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\obj\Debug\Sentenciaif.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\obj\Debug\Sentenciaif.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\obj\Debug\Sentenciaif.exe
+D:\FundaProgrCsharp\04 Manejo de decisiones\01 Sentencia if\Sentenciaif\obj\Debug\Sentenciaif.pdb

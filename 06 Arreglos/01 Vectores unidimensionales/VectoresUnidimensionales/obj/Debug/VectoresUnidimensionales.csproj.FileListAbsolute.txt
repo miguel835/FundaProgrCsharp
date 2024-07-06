@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\bin\Debug\VectoresUnidimensionales.exe.config
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\bin\Debug\VectoresUnidimensionales.exe
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\bin\Debug\VectoresUnidimensionales.pdb
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\obj\Debug\VectoresUnidimensionales.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\obj\Debug\VectoresUnidimensionales.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\obj\Debug\VectoresUnidimensionales.exe
+D:\FundaProgrCsharp\06 Arreglos\01 Vectores unidimensionales\VectoresUnidimensionales\obj\Debug\VectoresUnidimensionales.pdb

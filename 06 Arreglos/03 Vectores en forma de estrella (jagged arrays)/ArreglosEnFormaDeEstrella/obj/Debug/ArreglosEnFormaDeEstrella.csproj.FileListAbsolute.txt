@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\bin\Debug\ArreglosEnFormaDeEstrella.exe.config
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\bin\Debug\ArreglosEnFormaDeEstrella.exe
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\bin\Debug\ArreglosEnFormaDeEstrella.pdb
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\obj\Debug\ArreglosEnFormaDeEstrella.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\obj\Debug\ArreglosEnFormaDeEstrella.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\obj\Debug\ArreglosEnFormaDeEstrella.exe
+D:\FundaProgrCsharp\06 Arreglos\03 Vectores en forma de estrella (jagged arrays)\ArreglosEnFormaDeEstrella\obj\Debug\ArreglosEnFormaDeEstrella.pdb

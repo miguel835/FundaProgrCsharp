@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FundaProgrCsharp\\03 Operadores\\01 Operadores Aritmeticos\\Operadores Aritmeticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BB246E-1D53-4199-A2B1-846F6E33852E}|Operadores Aritmeticos.csproj|d:\\fundaprogrcsharp\\03 operadores\\01 operadores aritmeticos\\operadores aritmeticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BB246E-1D53-4199-A2B1-846F6E33852E}|Operadores Aritmeticos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FundaProgrCsharp\\03 Operadores\\01 Operadores Aritmeticos\\Operadores Aritmeticos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FundaProgrCsharp\\03 Operadores\\01 Operadores Aritmeticos\\Operadores Aritmeticos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:46:09.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\bin\Debug\operadoresBooleanos.exe.config
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\bin\Debug\operadoresBooleanos.exe
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\bin\Debug\operadoresBooleanos.pdb
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\obj\Debug\operadoresBooleanos.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\obj\Debug\operadoresBooleanos.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\obj\Debug\operadoresBooleanos.exe
+D:\FundaProgrCsharp\03 Operadores\02 Operadores Booleanos\operadoresBooleanos\obj\Debug\operadoresBooleanos.pdb

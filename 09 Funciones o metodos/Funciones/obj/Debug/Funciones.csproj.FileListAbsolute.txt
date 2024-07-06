@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\bin\Debug\Funciones.exe.config
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\bin\Debug\Funciones.exe
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\bin\Debug\Funciones.pdb
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\obj\Debug\Funciones.exe
+D:\FundaProgrCsharp\09 Funciones o métodos\Funciones\obj\Debug\Funciones.pdb

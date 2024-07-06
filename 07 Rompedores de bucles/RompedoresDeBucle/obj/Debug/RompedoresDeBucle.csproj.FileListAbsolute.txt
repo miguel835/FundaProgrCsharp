@@ -1,0 +1,7 @@
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\bin\Debug\RompedoresDeBucle.exe.config
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\bin\Debug\RompedoresDeBucle.exe
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\bin\Debug\RompedoresDeBucle.pdb
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\obj\Debug\RompedoresDeBucle.csproj.AssemblyReference.cache
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\obj\Debug\RompedoresDeBucle.csproj.CoreCompileInputs.cache
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\obj\Debug\RompedoresDeBucle.exe
+D:\FundaProgrCsharp\07 Rompedores de bucles\RompedoresDeBucle\obj\Debug\RompedoresDeBucle.pdb
