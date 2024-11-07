@@ -46,7 +46,7 @@ namespace Clases_y_objetos
         string name;
         int ago;
         //Creación de un constructor 
-        //Un constructor se distingue porque se lam
+        //Un constructor se distingue porque se llama igual que la clase 
         public Persona(string name, int ago)
         {
             //Para realizar la asignación de las variables hacemos lo siguiente
