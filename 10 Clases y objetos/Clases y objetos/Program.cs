@@ -50,7 +50,7 @@ namespace Clases_y_objetos
         public Persona(string name, int ago)
         {
             //Para realizar la asignación de las variables hacemos lo siguiente
-            this.name = name; //El ultimo total es la que la funcion recibe como parametro 
+            this.name = name; //El ultimo name es la que la funcion recibe como parametro 
             this.ago = ago;
 
         }
