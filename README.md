@@ -32,4 +32,8 @@ cada linea, su lógica.
 - Aplica lo aprendido haciendo programas en consola
 - Aprende programación orientada a objetos (POO), también tengo un repositorio con el 
 tema de [POO](https://github.com/miguel835/POOcsharp)
-
+- Haz ejercicios con el paradigma orientado a objetos, tengo una colección de ejercicios propuestos con
+sus respectivas soluciones en este [repositorio](https://github.com/miguel835/EjerciciosPOO)
+- Aprende un framework UI como por ejemplo Windows Forms, tengo un [repositorio](https://github.com/miguel835/WindowsFormsEjercicios)
+con ejercicios en WF y guías para avanzar en el aprendizaje del framework
+- Puedes revisar mi repositorio de [C# avanzado](https://github.com/miguel835/Csharp-avanzado) para profundizar en el lenguaje 
