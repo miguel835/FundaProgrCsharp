@@ -13,12 +13,12 @@ OJO: Los archivos tan solo se ejecutan en entornos Windows ya que estamos usando
 ### ¿Cómo descargo este repositorio?
 1. Instala las herramientas [git](https://git-scm.com/), [visual studio community](https://visualstudio.microsoft.com/es/) y [.net ](https://dotnet.microsoft.com/es-es/)
 1. Configura el visual studio para que pueda usar C# y reinicia tu computadora
-2. Luego de las herramientas, selecciona un dirección del expolorador de arhivos, da click derecho en Abrir Git Bash Aquí
-3. Copia este comando 
+2. Selecciona una dirección de un directorio en expolorador de arhivos, da click derecho en Abrir Git Bash Aquí
+3. Copia este comando y pegalo en el Git Bash y dale Enter
 ```bash
 git clone https://github.com/miguel835/FundaProgrCsharp.git 
 ```
-4. Busca en el directorio en que abriste el Git Bash y navega entre las carpetas
+4. Veras que ya clonaste el repositorio busca en el directorio en que abriste el Git Bash y navega entre las carpetas
 5. Para abrir un proyecto da click en archivo .snl o en el archivo .csproj con lo cual se abrira con Visual Studio
 ### ¿Cómo complemento mi aprendizaje de este repositorio?
 Puedes revisar el repositorio de [EjerciciosFundaProgrCsharp](https://github.com/miguel835/EjerciciosFundaProgrCsharp)
@@ -28,7 +28,7 @@ Se recomienda primero tomarse un tiempo máximo de 1h para resolver un ejercicio
 no se logró resolver el problema planteado entonces puedes ver la solución y trata de entender el porque de
 cada linea, su lógica. 
 
-#### ¿Cómo sigo aprendiendo más después de haber saber los fundamentos de programación en C#?
+#### ¿Cómo sigo aprendiendo más después de saber los fundamentos de programación en C#?
 - Aplica lo aprendido haciendo programas en consola
 - Aprende programación orientada a objetos (POO), también tengo un repositorio con el 
 tema de [POO](https://github.com/miguel835/POOcsharp)
