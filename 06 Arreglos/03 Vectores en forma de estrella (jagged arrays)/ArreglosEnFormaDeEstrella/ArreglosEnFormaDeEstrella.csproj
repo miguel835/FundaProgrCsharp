@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0E8506BD-E153-4538-81D6-61C47A71FFB8}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>ArreglosEnFormaDeEstrella</RootNamespace>
     <AssemblyName>ArreglosEnFormaDeEstrella</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>

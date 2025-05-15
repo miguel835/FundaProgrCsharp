@@ -6,6 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C31E5623-0D31-4A33-8CC8-01BEAF15B69E}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <Nullable>enable</Nullable> 
+    <LangVersion>12</LangVersion>
     <RootNamespace>VariablesYTiposDeDatos</RootNamespace>
     <AssemblyName>VariablesYTiposDeDatos</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>

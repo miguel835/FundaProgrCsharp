@@ -8,7 +8,11 @@ lenguage de programación, facilitando así el camino para los que recien inicia
 la programación, adicionalmente se recomienda que el estudiante tenga conocimientos firmes sobre 
 lógica matemática, pseint, diagramas de flujos, DFD. 
 
-OJO: Los archivos tan solo se ejecutan en entornos Windows ya que estamos usando .Net Framework
+**Ojo:** Los archivos tan solo se ejecutan en entornos Windows ya que estamos usando .Net Framework, además
+cada vez que crees un proyecto sea de consola o otros modifica el archivo .csproj en un bloc de notas y 
+agrega en el `<PropertyGroup>` lo siguiente `<LangVersion>12</LangVersion>` con esto le decimos que use en 
+todo el proyecto la versión 12 de C#.   
+Si cerraste tu proyecto lo puedes abrir dando clic en el archivo .sln o en el archivo .csproj
 
 ### ¿Cómo descargo este repositorio?
 1. Instala las herramientas [git](https://git-scm.com/), [visual studio community](https://visualstudio.microsoft.com/es/) y [.net ](https://dotnet.microsoft.com/es-es/)

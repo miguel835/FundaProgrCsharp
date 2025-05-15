@@ -5,3 +5,10 @@ D:\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMu
 D:\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.csproj.CoreCompileInputs.cache
 D:\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.exe
 D:\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\bin\Debug\SelecciónMultiple.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\bin\Debug\SelecciónMultiple.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\bin\Debug\SelecciónMultiple.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\04 Manejo de decisiones\04 Selección múltiple\SelecciónMultiple\obj\Debug\SelecciónMultiple.pdb

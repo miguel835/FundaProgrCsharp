@@ -81,6 +81,9 @@ namespace SelecciónMultiple
                     if (estiloSeptimoPlato == "servirse") Console.WriteLine("No se le añadira ningún cargo adicional.");
                     else Console.WriteLine("Se le cobrara $0.25 ctvs por la tarrina. El precio que debe pagar es de $2.75");
                     break;
+                default:
+                    Console.WriteLine("Opción no válida");
+                    break;
             };
             
 

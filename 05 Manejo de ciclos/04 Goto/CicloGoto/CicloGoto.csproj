@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5B499C79-DEC3-4AC6-B1C2-E3166401BE45}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>CicloGoto</RootNamespace>
     <AssemblyName>CicloGoto</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>

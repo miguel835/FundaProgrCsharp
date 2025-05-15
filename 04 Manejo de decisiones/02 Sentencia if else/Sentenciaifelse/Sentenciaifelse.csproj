@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FA592455-4BF3-49BC-876E-07BCB3F504D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>Sentenciaifelse</RootNamespace>
     <AssemblyName>Sentenciaifelse</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>

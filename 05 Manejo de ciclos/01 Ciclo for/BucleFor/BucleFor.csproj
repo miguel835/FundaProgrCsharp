@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1AC31760-329E-4DE9-8E26-0E6E00A5825D}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>BucleFor</RootNamespace>
     <AssemblyName>BucleFor</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>

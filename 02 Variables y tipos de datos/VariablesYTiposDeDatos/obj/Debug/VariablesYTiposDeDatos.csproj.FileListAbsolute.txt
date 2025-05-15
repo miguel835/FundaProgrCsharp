@@ -5,3 +5,10 @@ D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Deb
 D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.pdb
 D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.exe
 D:\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\bin\Debug\VariablesYTiposDeDatos.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\FundaProgrCsharp\02 Variables y tipos de datos\VariablesYTiposDeDatos\obj\Debug\VariablesYTiposDeDatos.pdb

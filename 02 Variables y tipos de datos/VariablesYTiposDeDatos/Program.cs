@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Dynamic;
 
 namespace VariablesYTiposDeDatos
 {
@@ -60,7 +61,48 @@ namespace VariablesYTiposDeDatos
             //Declaración de variables con tipo implicito
             var mensaje = "Hola soy un mensaje";
             Console.WriteLine("Var");
-            Console.WriteLine("El mensaje de la variable mensaje es: " + mensaje);
+            Console.WriteLine("El mensaje de la variable mensaje es: " + mensaje + "\n");
+
+
+            //Tipo dinamico -> Es una característica especial que permite manipular objetos cuya 
+            //información de tipo se resuelve en tiempo de ejecución en lugar de en tiempo de compilación.
+            //Es útil cuando trabajas con datos de fuentes dinámicas como JSON, XML, o COM.
+            Console.WriteLine("Tipo dinamico");
+            dynamic obj = "Hola, Mundo"; 
+            Console.WriteLine("El tipo de dato dinamico " + obj.Length); // Funciona porque es un string
+            //Para usar los tipos dinamicos agrega el nombre del espacio System.Dynamic
+            //Se la usa en situaciones donde no conoces los tipos exactos hasta que la aplicación está en ejecución.
+            obj = 100;
+            Console.WriteLine(obj + 50); // Ahora es un int, por lo que suma correctamente
+            //El uso excesivo de dynamic puede ralentizar tu programa
+
+            Console.WriteLine("\nTipo object");
+            /* Si asignas un valor de tipo valor (int, double, etc.) a object, se produce un proceso 
+             * llamado boxing (encapsulación del valor dentro de un objeto en el heap).
+             * Para acceder a los valores almacenados en object, debes hacer unboxing 
+             * (extraer el valor original con una conversión explícita).
+             */
+            object n = 42;  // Boxing: int almacenado como object
+            int num = (int)obj; // Unboxing: recuperar el valor original
+            //El uso de este tipo de dato suele ralentizar los programas por eso es mejor usar los tipos genéricos
+            object text = "Hola mundo";
+            Console.WriteLine("El tipo de dato object " + text + "\n"); // Funciona porque todos los tipos derivan de object
+            //***************************************************************************************
+            //                                   Tipos anulables 
+            //***************************************************************************************
+            //Modificamos el archivo .csproj agregamos lo siguiente en la sección de <ProperyGroup>: <Nullable>enable</Nullable> 
+            //Con esto se aplicara en todo el proyecto y agrega esto <LangVersion>12</LangVersion> con lo cual le estamos 
+            //diciendo que usaremos C# 12 en todo el proyecto 
+
+            //Tenemos dos formas de declarar los tipos anulables
+            Nullable<int> a = null; //-> Primera forma
+            int ? b = null; //->Segunda forma
+            Console.WriteLine("Tipos anulables");
+            Console.WriteLine(a.GetValueOrDefault());
+            Console.WriteLine(b.GetValueOrDefault());
+
+
+
             Console.ReadKey();
         }
     }

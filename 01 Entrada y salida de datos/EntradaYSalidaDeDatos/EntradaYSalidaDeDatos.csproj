@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B75D31A5-5CD3-42D4-808A-9D385AFC2CAB}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>EntradaYSalidaDeDatos</RootNamespace>
     <AssemblyName>EntradaYSalidaDeDatos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>

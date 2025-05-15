@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{47BB246E-1D53-4199-A2B1-846F6E33852E}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>Operadores_Aritmeticos</RootNamespace>
     <AssemblyName>Operadores Aritmeticos</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>

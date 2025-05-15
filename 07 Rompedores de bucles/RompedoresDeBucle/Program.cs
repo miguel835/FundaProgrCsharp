@@ -12,6 +12,7 @@ namespace RompedoresDeBucle
         {
             //break; hace que todo el bucle se rompa
             //continue; hace que se salte al siguiente bucle cercano
+            //return: Esto hace que termine su ejecución un método, una función y que devuelva un valor
         }
     }
 }

@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EC47919F-A7DD-46B5-B3D2-B6C574DC709E}</ProjectGuid>
     <OutputType>Exe</OutputType>
+    <LangVersion>12</LangVersion>
     <RootNamespace>operadorRelacionales</RootNamespace>
     <AssemblyName>operadorRelacionales</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
